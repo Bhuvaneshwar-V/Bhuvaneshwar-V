@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently Looking for ** Data Scientist Role **
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning ** Machine Learning & Deep Learning **
 
-- 👯 I’m looking to collaborate on **Natural Language Processing projects**
+- 👯 I’m looking to collaborate on **Natural Language Processing projects **
 
-- 🤝 I’m looking for help with ** Conversational AI**
+- 🤝 I’m looking for help with ** Conversational AI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhuvaneshwar-V](https://github.com/Bhuvaneshwar-V)
 
-- 💬 Ask me about **Python, Pandas, Matplotlib, Sklearn**
+- 💬 Ask me about **Python, Pandas, Matplotlib, Sklearn,**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bhuvaneshwar-v/**
 
