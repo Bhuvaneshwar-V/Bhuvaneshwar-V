@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently Looking for **Machine learning engineer role**
+- 🔭 I’m currently Looking for ** Data Scientist Role **
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Natural Language Processing projects**
 
-- 🤝 I’m looking for help with **FastAPI**
+- 🤝 I’m looking for help with ** Conversational AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhuvaneshwar-V](https://github.com/Bhuvaneshwar-V)
 
