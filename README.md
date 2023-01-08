@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwar</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h2 align="center">A passionate Machine Learning Engineer from India</h3>
 
 - 🔭 I’m currently working as a ** Python Consultant **
 
