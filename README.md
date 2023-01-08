@@ -5,7 +5,7 @@
 
 - 🌱 Expertise in  ** Machine Learning & Deep Learning **
 
-- 👯 I’m looking to collaborate on **Natural Language Processing projects **
+- 👯 I’m looking to collaborate as a ** Data Scientist **
 
 - 🤝 I’m looking for help with ** Conversational AI **
 
