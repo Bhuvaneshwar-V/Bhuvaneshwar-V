@@ -7,10 +7,8 @@
 
 - 👯 I’m looking to collaborate as a ** Data Scientist **
 
-- 🤝 I’m looking for help with ** Conversational AI **
-
 - 👨‍💻 All of my projects are available at [https://github.com/Bhuvaneshwar-V](https://github.com/Bhuvaneshwar-V)
 
-- 💬 Ask me about **Python, Pandas, Matplotlib, Sklearn,**
+- 💬 Ask me about **Python, Pandas, Matplotlib, Sklearn, Tensorflow, Keras**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bhuvaneshwar-v/**
